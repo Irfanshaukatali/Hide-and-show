@@ -34,7 +34,7 @@ export default function App(){
       {
         show?
         <h1>irfan</h1>
-        :null
+        :<h1>juhi</h1>
       }
       <button onClick={click}>hide/show</button>
     </div>
